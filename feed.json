@@ -1,0 +1,56 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "tingyinglu.com",
+    "description": "",
+    "home_page_url": "https://tingyinglu.com",
+    "feed_url": "https://tingyinglu.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Ting Lu"
+    },
+    "items": [
+        {
+            "id": "https://tingyinglu.com/japan.html",
+            "url": "https://tingyinglu.com/japan.html",
+            "title": "Japan",
+            "summary": "Mt Fuji",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://tingyinglu.com/media/posts/8/IMG_4317.JPG\" height=\"2448\" width=\"3264\" alt=\"\"  sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://tingyinglu.com/media/posts/8/responsive/IMG_4317-xs.JPG 300w ,https://tingyinglu.com/media/posts/8/responsive/IMG_4317-sm.JPG 480w ,https://tingyinglu.com/media/posts/8/responsive/IMG_4317-md.JPG 768w ,https://tingyinglu.com/media/posts/8/responsive/IMG_4317-lg.JPG 1024w\">\n      <figcaption>Mt Fuji</figcaption>\n    </figure>",
+            "image": "https://tingyinglu.com/media/posts/8/IMG_4317-2.JPG",
+            "author": {
+                "name": "Ting Lu"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-08T11:50:50+08:00",
+            "date_modified": "2026-09-08T12:02:54+08:00"
+        },
+        {
+            "id": "https://tingyinglu.com/polar-bear.html",
+            "url": "https://tingyinglu.com/polar-bear.html",
+            "title": "polar bear",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://tingyinglu.com/media/posts/3/IMG_3193.JPG\" alt=\"\" width=\"5184\" height=\"3456\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://tingyinglu.com/media/posts/3/responsive/IMG_3193-xs.JPG 300w ,https://tingyinglu.com/media/posts/3/responsive/IMG_3193-sm.JPG 480w ,https://tingyinglu.com/media/posts/3/responsive/IMG_3193-md.JPG 768w ,https://tingyinglu.com/media/posts/3/responsive/IMG_3193-lg.JPG 1024w\"></figure>",
+            "image": "https://tingyinglu.com/media/posts/3/IMG_3193-2.JPG",
+            "author": {
+                "name": "Ting Lu"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-08T11:24:18+08:00",
+            "date_modified": "2026-09-08T12:03:39+08:00"
+        },
+        {
+            "id": "https://tingyinglu.com/norway.html",
+            "url": "https://tingyinglu.com/norway.html",
+            "title": "Norway",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://tingyinglu.com/media/posts/2/GOPR1477.JPG\" alt=\"\" width=\"4000\" height=\"3000\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://tingyinglu.com/media/posts/2/responsive/GOPR1477-xs.JPG 300w ,https://tingyinglu.com/media/posts/2/responsive/GOPR1477-sm.JPG 480w ,https://tingyinglu.com/media/posts/2/responsive/GOPR1477-md.JPG 768w ,https://tingyinglu.com/media/posts/2/responsive/GOPR1477-lg.JPG 1024w\"></figure>",
+            "image": "https://tingyinglu.com/media/posts/2/IMG_7227-3.jpg",
+            "author": {
+                "name": "Ting Lu"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-08T11:15:50+08:00",
+            "date_modified": "2026-09-08T12:04:12+08:00"
+        }
+    ]
+}

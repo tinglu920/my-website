@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://tingyinglu.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://tingyinglu.com/</loc>
+</url>
+<url>
+<loc>https://tingyinglu.com/home.html</loc>
+<lastmod>2026-09-08T11:43:08+08:00</lastmod>
+<image:image>
+<image:loc>https://tingyinglu.com/media/posts/7/IMG_4317.JPG</image:loc>
+<image:title><![CDATA[Image description]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://tingyinglu.com/japan.html</loc>
+<lastmod>2026-09-08T12:02:54+08:00</lastmod>
+<image:image>
+<image:loc>https://tingyinglu.com/media/posts/8/IMG_4317-2.JPG</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://tingyinglu.com/media/posts/8/IMG_4317.JPG</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://tingyinglu.com/norway.html</loc>
+<lastmod>2026-09-08T12:04:12+08:00</lastmod>
+<image:image>
+<image:loc>https://tingyinglu.com/media/posts/2/IMG_7227-3.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://tingyinglu.com/media/posts/2/GOPR1477.JPG</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://tingyinglu.com/polar-bear.html</loc>
+<lastmod>2026-09-08T12:03:39+08:00</lastmod>
+<image:image>
+<image:loc>https://tingyinglu.com/media/posts/3/IMG_3193-2.JPG</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://tingyinglu.com/media/posts/3/IMG_3193.JPG</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
